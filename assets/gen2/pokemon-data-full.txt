@@ -1,0 +1,1030 @@
+pokedex_number,name,catch_rate,status,species,hp,attack,defense,sp_attack,sp_defense,speed
+0,MissingNo.,3,Legendary,Glitch Pokémon,90,95,75,95,75,197
+1,Bulbasaur,45,Normal,Seed Pokémon,45,49,49,65,65,45
+2,Ivysaur,45,Normal,Seed Pokémon,60,62,63,80,80,60
+3,Venusaur,45,Normal,Seed Pokémon,80,82,83,100,100,80
+3,Mega Venusaur,45,Normal,Seed Pokémon,80,100,123,122,120,80
+4,Charmander,45,Normal,Lizard Pokémon,39,52,43,60,50,65
+5,Charmeleon,45,Normal,Flame Pokémon,58,64,58,80,65,80
+6,Charizard,45,Normal,Flame Pokémon,78,84,78,109,85,100
+6,Mega Charizard X,45,Normal,Flame Pokémon,78,130,111,130,85,100
+6,Mega Charizard Y,45,Normal,Flame Pokémon,78,104,78,159,115,100
+7,Squirtle,45,Normal,Tiny Turtle Pokémon,44,48,65,50,64,43
+8,Wartortle,45,Normal,Turtle Pokémon,59,63,80,65,80,58
+9,Blastoise,45,Normal,Shellfish Pokémon,79,83,100,85,105,78
+9,Mega Blastoise,45,Normal,Shellfish Pokémon,79,103,120,135,115,78
+10,Caterpie,255,Normal,Worm Pokémon,45,30,35,20,20,45
+11,Metapod,120,Normal,Cocoon Pokémon,50,20,55,25,25,30
+12,Butterfree,45,Normal,Butterfly Pokémon,60,45,50,90,80,70
+13,Weedle,255,Normal,Hairy Bug Pokémon,40,35,30,20,20,50
+14,Kakuna,120,Normal,Cocoon Pokémon,45,25,50,25,25,35
+15,Beedrill,45,Normal,Poison Bee Pokémon,65,90,40,45,80,75
+15,Mega Beedrill,45,Normal,Poison Bee Pokémon,65,150,40,15,80,145
+16,Pidgey,255,Normal,Tiny Bird Pokémon,40,45,40,35,35,56
+17,Pidgeotto,120,Normal,Bird Pokémon,63,60,55,50,50,71
+18,Pidgeot,45,Normal,Bird Pokémon,83,80,75,70,70,101
+18,Mega Pidgeot,45,Normal,Bird Pokémon,83,80,80,135,80,121
+19,Rattata,255,Normal,Mouse Pokémon,30,56,35,25,35,72
+19,Alolan Rattata,255,Normal,Mouse Pokémon,30,56,35,25,35,72
+20,Raticate,127,Normal,Mouse Pokémon,55,81,60,50,70,97
+20,Alolan Raticate,127,Normal,Mouse Pokémon,75,71,70,40,80,77
+21,Spearow,255,Normal,Tiny Bird Pokémon,40,60,30,31,31,70
+22,Fearow,90,Normal,Beak Pokémon,65,90,65,61,61,100
+23,Ekans,255,Normal,Snake Pokémon,35,60,44,40,54,55
+24,Arbok,90,Normal,Cobra Pokémon,60,95,69,65,79,80
+25,Pikachu,190,Normal,Mouse Pokémon,35,55,40,50,50,90
+25,Partner Pikachu,190,Normal,Mouse Pokémon,45,80,50,75,60,120
+26,Raichu,75,Normal,Mouse Pokémon,60,90,55,90,80,110
+26,Alolan Raichu,75,Normal,Mouse Pokémon,60,85,50,95,85,110
+27,Sandshrew,255,Normal,Mouse Pokémon,50,75,85,20,30,40
+27,Alolan Sandshrew,255,Normal,Mouse Pokémon,50,75,90,10,35,40
+28,Sandslash,90,Normal,Mouse Pokémon,75,100,110,45,55,65
+28,Alolan Sandslash,90,Normal,Mouse Pokémon,75,100,120,25,65,65
+29,Nidoran♀,235,Normal,Poison Pin Pokémon,55,47,52,40,40,41
+30,Nidorina,120,Normal,Poison Pin Pokémon,70,62,67,55,55,56
+31,Nidoqueen,45,Normal,Drill Pokémon,90,92,87,75,85,76
+32,Nidoran♂,235,Normal,Poison Pin Pokémon,46,57,40,40,40,50
+33,Nidorino,120,Normal,Poison Pin Pokémon,61,72,57,55,55,65
+34,Nidoking,45,Normal,Drill Pokémon,81,102,77,85,75,85
+35,Clefairy,150,Normal,Fairy Pokémon,70,45,48,60,65,35
+36,Clefable,25,Normal,Fairy Pokémon,95,70,73,95,90,60
+37,Vulpix,190,Normal,Fox Pokémon,38,41,40,50,65,65
+37,Alolan Vulpix,190,Normal,Fox Pokémon,38,41,40,50,65,65
+38,Ninetales,75,Normal,Fox Pokémon,73,76,75,81,100,100
+38,Alolan Ninetales,75,Normal,Fox Pokémon,73,67,75,81,100,109
+39,Jigglypuff,170,Normal,Balloon Pokémon,115,45,20,45,25,20
+40,Wigglytuff,50,Normal,Balloon Pokémon,140,70,45,85,50,45
+41,Zubat,255,Normal,Bat Pokémon,40,45,35,30,40,55
+42,Golbat,90,Normal,Bat Pokémon,75,80,70,65,75,90
+43,Oddish,255,Normal,Weed Pokémon,45,50,55,75,65,30
+44,Gloom,120,Normal,Weed Pokémon,60,65,70,85,75,40
+45,Vileplume,45,Normal,Flower Pokémon,75,80,85,110,90,50
+46,Paras,190,Normal,Mushroom Pokémon,35,70,55,45,55,25
+47,Parasect,75,Normal,Mushroom Pokémon,60,95,80,60,80,30
+48,Venonat,190,Normal,Insect Pokémon,60,55,50,40,55,45
+49,Venomoth,75,Normal,Poison Moth Pokémon,70,65,60,90,75,90
+50,Diglett,255,Normal,Mole Pokémon,10,55,25,35,45,95
+50,Alolan Diglett,255,Normal,Mole Pokémon,10,55,30,35,45,90
+51,Dugtrio,50,Normal,Mole Pokémon,35,100,50,50,70,120
+51,Alolan Dugtrio,50,Normal,Mole Pokémon,35,100,60,50,70,110
+52,Meowth,255.0,Normal,Scratch Cat Pokémon,40,45,35,40,40,90
+52,Alolan Meowth,255.0,Normal,Scratch Cat Pokémon,40,35,35,50,40,90
+52,Galarian Meowth,,Normal,Scratch Cat Pokémon,50,65,55,40,40,40
+53,Persian,90,Normal,Classy Cat Pokémon,65,70,60,65,65,115
+53,Alolan Persian,90,Normal,Classy Cat Pokémon,65,60,60,75,65,115
+54,Psyduck,190,Normal,Duck Pokémon,50,52,48,65,50,55
+55,Golduck,75,Normal,Duck Pokémon,80,82,78,95,80,85
+56,Mankey,190,Normal,Pig Monkey Pokémon,40,80,35,35,45,70
+57,Primeape,75,Normal,Pig Monkey Pokémon,65,105,60,60,70,95
+58,Growlithe,190,Normal,Puppy Pokémon,55,70,45,70,50,60
+59,Arcanine,75,Normal,Legendary Pokémon,90,110,80,100,80,95
+60,Poliwag,255,Normal,Tadpole Pokémon,40,50,40,40,40,90
+61,Poliwhirl,120,Normal,Tadpole Pokémon,65,65,65,50,50,90
+62,Poliwrath,45,Normal,Tadpole Pokémon,90,95,95,70,90,70
+63,Abra,200,Normal,Psi Pokémon,25,20,15,105,55,90
+64,Kadabra,100,Normal,Psi Pokémon,40,35,30,120,70,105
+65,Alakazam,50,Normal,Psi Pokémon,55,50,45,135,95,120
+65,Mega Alakazam,50,Normal,Psi Pokémon,55,50,65,175,105,150
+66,Machop,180,Normal,Superpower Pokémon,70,80,50,35,35,35
+67,Machoke,90,Normal,Superpower Pokémon,80,100,70,50,60,45
+68,Machamp,45,Normal,Superpower Pokémon,90,130,80,65,85,55
+69,Bellsprout,255,Normal,Flower Pokémon,50,75,35,70,30,40
+70,Weepinbell,120,Normal,Flycatcher Pokémon,65,90,50,85,45,55
+71,Victreebel,45,Normal,Flycatcher Pokémon,80,105,65,100,70,70
+72,Tentacool,190,Normal,Jellyfish Pokémon,40,40,35,50,100,70
+73,Tentacruel,60,Normal,Jellyfish Pokémon,80,70,65,80,120,100
+74,Geodude,255,Normal,Rock Pokémon,40,80,100,30,30,20
+74,Alolan Geodude,255,Normal,Rock Pokémon,40,80,100,30,30,20
+75,Graveler,120,Normal,Rock Pokémon,55,95,115,45,45,35
+75,Alolan Graveler,120,Normal,Rock Pokémon,55,95,115,45,45,35
+76,Golem,45,Normal,Megaton Pokémon,80,120,130,55,65,45
+76,Alolan Golem,45,Normal,Megaton Pokémon,80,120,130,55,65,45
+77,Ponyta,190.0,Normal,Fire Horse Pokémon,50,85,55,65,65,90
+77,Galarian Ponyta,,Normal,Unique Horn Pokémon,50,85,55,65,65,90
+78,Rapidash,60.0,Normal,Fire Horse Pokémon,65,100,70,80,80,105
+78,Galarian Rapidash,,Normal,Unique Horn Pokémon,65,100,70,80,80,105
+79,Slowpoke,190.0,Normal,Dopey Pokémon,90.0,65.0,65.0,40.0,40.0,15.0
+80,Slowbro,75.0,Normal,Hermit Crab Pokémon,95.0,75.0,110.0,100.0,80.0,30.0
+80,Mega Slowbro,75.0,Normal,Hermit Crab Pokémon,95.0,75.0,180.0,130.0,80.0,30.0
+81,Magnemite,190,Normal,Magnet Pokémon,25,35,70,95,55,45
+82,Magneton,60,Normal,Magnet Pokémon,50,60,95,120,70,70
+83,Farfetch'd,45.0,Normal,Wild Duck Pokémon,52,90,55,58,62,60
+83,Galarian Farfetch'd,,Normal,Wild Duck Pokémon,52,95,55,58,62,55
+84,Doduo,190,Normal,Twin Bird Pokémon,35,85,45,35,35,75
+85,Dodrio,45,Normal,Triple Bird Pokémon,60,110,70,60,60,110
+86,Seel,190,Normal,Sea Lion Pokémon,65,45,55,45,70,45
+87,Dewgong,75,Normal,Sea Lion Pokémon,90,70,80,70,95,70
+88,Grimer,190,Normal,Sludge Pokémon,80,80,50,40,50,25
+88,Alolan Grimer,190,Normal,Sludge Pokémon,80,80,50,40,50,25
+89,Muk,75,Normal,Sludge Pokémon,105,105,75,65,100,50
+89,Alolan Muk,75,Normal,Sludge Pokémon,105,105,75,65,100,50
+90,Shellder,190,Normal,Bivalve Pokémon,30,65,100,45,25,40
+91,Cloyster,60,Normal,Bivalve Pokémon,50,95,180,85,45,70
+92,Gastly,190,Normal,Gas Pokémon,30,35,30,100,35,80
+93,Haunter,90,Normal,Gas Pokémon,45,50,45,115,55,95
+94,Gengar,45,Normal,Shadow Pokémon,60,65,60,130,75,110
+94,Mega Gengar,45,Normal,Shadow Pokémon,60,65,80,170,95,130
+95,Onix,45,Normal,Rock Snake Pokémon,35,45,160,30,45,70
+96,Drowzee,190,Normal,Hypnosis Pokémon,60,48,45,43,90,42
+97,Hypno,75,Normal,Hypnosis Pokémon,85,73,70,73,115,67
+98,Krabby,225,Normal,River Crab Pokémon,30,105,90,25,25,50
+99,Kingler,60,Normal,Pincer Pokémon,55,130,115,50,50,75
+100,Voltorb,190,Normal,Ball Pokémon,40,30,50,55,55,100
+101,Electrode,60,Normal,Ball Pokémon,60,50,70,80,80,150
+102,Exeggcute,90,Normal,Egg Pokémon,60,40,80,60,45,40
+103,Exeggutor,45,Normal,Coconut Pokémon,95,95,85,125,75,55
+103,Alolan Exeggutor,45,Normal,Coconut Pokémon,95,105,85,125,75,45
+104,Cubone,190,Normal,Lonely Pokémon,50,50,95,40,50,35
+105,Marowak,75,Normal,Bone Keeper Pokémon,60,80,110,50,80,45
+105,Alolan Marowak,75,Normal,Bone Keeper Pokémon,60,80,110,50,80,45
+106,Hitmonlee,45,Normal,Kicking Pokémon,50,120,53,35,110,87
+107,Hitmonchan,45,Normal,Punching Pokémon,50,105,79,35,110,76
+108,Lickitung,45,Normal,Licking Pokémon,90,55,75,60,75,30
+109,Koffing,190,Normal,Poison Gas Pokémon,40,65,95,60,45,35
+110,Weezing,60.0,Normal,Poison Gas Pokémon,65,90,120,85,70,60
+110,Galarian Weezing,,Normal,Poison Gas Pokémon,65,90,120,85,70,60
+111,Rhyhorn,120,Normal,Spikes Pokémon,80,85,95,30,30,25
+112,Rhydon,60,Normal,Drill Pokémon,105,130,120,45,45,40
+113,Chansey,30,Normal,Egg Pokémon,250,5,5,35,105,50
+114,Tangela,45,Normal,Vine Pokémon,65,55,115,100,40,60
+115,Kangaskhan,45,Normal,Parent Pokémon,105,95,80,40,80,90
+115,Mega Kangaskhan,45,Normal,Parent Pokémon,105,125,100,60,100,100
+116,Horsea,225,Normal,Dragon Pokémon,30,40,70,70,25,60
+117,Seadra,75,Normal,Dragon Pokémon,55,65,95,95,45,85
+118,Goldeen,225,Normal,Goldfish Pokémon,45,67,60,35,50,63
+119,Seaking,60,Normal,Goldfish Pokémon,80,92,65,65,80,68
+120,Staryu,225,Normal,Star Shape Pokémon,30,45,55,70,55,85
+121,Starmie,60,Normal,Mysterious Pokémon,60,75,85,100,85,115
+122,Mr. Mime,45.0,Normal,Barrier Pokémon,40,45,65,100,120,90
+122,Galarian Mr. Mime,,Normal,Dancing Pokémon,50,65,65,90,90,100
+123,Scyther,45,Normal,Mantis Pokémon,70,110,80,55,80,105
+124,Jynx,45,Normal,Human Shape Pokémon,65,50,35,115,95,95
+125,Electabuzz,45,Normal,Electric Pokémon,65,83,57,95,85,105
+126,Magmar,45,Normal,Spitfire Pokémon,65,95,57,100,85,93
+127,Pinsir,45,Normal,Stag Beetle Pokémon,65,125,100,55,70,85
+127,Mega Pinsir,45,Normal,Stag Beetle Pokémon,65,155,120,65,90,105
+128,Tauros,45,Normal,Wild Bull Pokémon,75,100,95,40,70,110
+129,Magikarp,255,Normal,Fish Pokémon,20,10,55,15,20,80
+130,Gyarados,45,Normal,Atrocious Pokémon,95,125,79,60,100,81
+130,Mega Gyarados,45,Normal,Atrocious Pokémon,95,155,109,70,130,81
+131,Lapras,45,Normal,Transport Pokémon,130,85,80,85,95,60
+132,Ditto,35,Normal,Transform Pokémon,48,48,48,48,48,48
+133,Eevee,45,Normal,Evolution Pokémon,55,55,50,45,65,55
+133,Partner Eevee,45,Normal,Evolution Pokémon,65,75,70,65,85,75
+134,Vaporeon,45,Normal,Bubble Jet Pokémon,130,65,60,110,95,65
+135,Jolteon,45,Normal,Lightning Pokémon,65,65,60,110,95,130
+136,Flareon,45,Normal,Flame Pokémon,65,130,60,95,110,65
+137,Porygon,45,Normal,Virtual Pokémon,65,60,70,85,75,40
+138,Omanyte,45,Normal,Spiral Pokémon,35,40,100,90,55,35
+139,Omastar,45,Normal,Spiral Pokémon,70,60,125,115,70,55
+140,Kabuto,45,Normal,Shellfish Pokémon,30,80,90,55,45,55
+141,Kabutops,45,Normal,Shellfish Pokémon,60,115,105,65,70,80
+142,Aerodactyl,45,Normal,Fossil Pokémon,80,105,65,60,75,130
+142,Mega Aerodactyl,45,Normal,Fossil Pokémon,80,135,85,70,95,150
+143,Snorlax,25,Normal,Sleeping Pokémon,160,110,65,65,110,30
+144,Articuno,3,Sub Legendary,Freeze Pokémon,90,85,100,95,125,85
+145,Zapdos,3,Sub Legendary,Electric Pokémon,90,90,85,125,90,100
+146,Moltres,3,Sub Legendary,Flame Pokémon,90,100,90,125,85,90
+147,Dratini,45,Normal,Dragon Pokémon,41,64,45,50,50,50
+148,Dragonair,45,Normal,Dragon Pokémon,61,84,65,70,70,70
+149,Dragonite,45,Normal,Dragon Pokémon,91,134,95,100,100,80
+150,Mewtwo,3,Legendary,Genetic Pokémon,106,110,90,154,90,130
+150,Mega Mewtwo X,3,Legendary,Genetic Pokémon,106,190,100,154,100,130
+150,Mega Mewtwo Y,3,Legendary,Genetic Pokémon,106,150,70,194,120,140
+151,Mew,45,Mythical,New Species Pokémon,100,100,100,100,100,100
+152,Chikorita,45,Normal,Leaf Pokémon,45,49,65,49,65,45
+153,Bayleef,45,Normal,Leaf Pokémon,60,62,80,63,80,60
+154,Meganium,45,Normal,Herb Pokémon,80,82,100,83,100,80
+155,Cyndaquil,45,Normal,Fire Mouse Pokémon,39,52,43,60,50,65
+156,Quilava,45,Normal,Volcano Pokémon,58,64,58,80,65,80
+157,Typhlosion,45,Normal,Volcano Pokémon,78,84,78,109,85,100
+158,Totodile,45,Normal,Big Jaw Pokémon,50,65,64,44,48,43
+159,Croconaw,45,Normal,Big Jaw Pokémon,65,80,80,59,63,58
+160,Feraligatr,45,Normal,Big Jaw Pokémon,85,105,100,79,83,78
+161,Sentret,255,Normal,Scout Pokémon,35,46,34,35,45,20
+162,Furret,90,Normal,Long Body Pokémon,85,76,64,45,55,90
+163,Hoothoot,255,Normal,Owl Pokémon,60,30,30,36,56,50
+164,Noctowl,90,Normal,Owl Pokémon,100,50,50,86,96,70
+165,Ledyba,255,Normal,Five Star Pokémon,40,20,30,40,80,55
+166,Ledian,90,Normal,Five Star Pokémon,55,35,50,55,110,85
+167,Spinarak,255,Normal,String Spit Pokémon,40,60,40,40,40,30
+168,Ariados,90,Normal,Long Leg Pokémon,70,90,70,60,70,40
+169,Crobat,90,Normal,Bat Pokémon,85,90,80,70,80,130
+170,Chinchou,190,Normal,Angler Pokémon,75,38,38,56,56,67
+171,Lanturn,75,Normal,Light Pokémon,125,58,58,76,76,67
+172,Pichu,190,Normal,Tiny Mouse Pokémon,20,40,15,35,35,60
+173,Cleffa,150,Normal,Star Shape Pokémon,50,25,28,45,55,15
+174,Igglybuff,170,Normal,Balloon Pokémon,90,30,15,40,20,15
+175,Togepi,190,Normal,Spike Ball Pokémon,35,20,65,40,65,20
+176,Togetic,75,Normal,Happiness Pokémon,55,40,85,80,105,40
+177,Natu,190,Normal,Tiny Bird Pokémon,40,50,45,70,45,70
+178,Xatu,75,Normal,Mystic Pokémon,65,75,70,95,70,95
+179,Mareep,235,Normal,Wool Pokémon,55,40,40,65,45,35
+180,Flaaffy,120,Normal,Wool Pokémon,70,55,55,80,60,45
+181,Ampharos,45,Normal,Light Pokémon,90,75,85,115,90,55
+181,Mega Ampharos,45,Normal,Light Pokémon,90,95,105,165,110,45
+182,Bellossom,45,Normal,Flower Pokémon,75,80,95,90,100,50
+183,Marill,190,Normal,Aqua Mouse Pokémon,70,20,50,20,50,40
+184,Azumarill,75,Normal,Aqua Rabbit Pokémon,100,50,80,60,80,50
+185,Sudowoodo,65,Normal,Imitation Pokémon,70,100,115,30,65,30
+186,Politoed,45,Normal,Frog Pokémon,90,75,75,90,100,70
+187,Hoppip,255,Normal,Cottonweed Pokémon,35,35,40,35,55,50
+188,Skiploom,120,Normal,Cottonweed Pokémon,55,45,50,45,65,80
+189,Jumpluff,45,Normal,Cottonweed Pokémon,75,55,70,55,95,110
+190,Aipom,45,Normal,Long Tail Pokémon,55,70,55,40,55,85
+191,Sunkern,235,Normal,Seed Pokémon,30,30,30,30,30,30
+192,Sunflora,120,Normal,Sun Pokémon,75,75,55,105,85,30
+193,Yanma,75,Normal,Clear Wing Pokémon,65,65,45,75,45,95
+194,Wooper,255,Normal,Water Fish Pokémon,55,45,45,25,25,15
+195,Quagsire,90,Normal,Water Fish Pokémon,95,85,85,65,65,35
+196,Espeon,45,Normal,Sun Pokémon,65,65,60,130,95,110
+197,Umbreon,45,Normal,Moonlight Pokémon,95,65,110,60,130,65
+198,Murkrow,30,Normal,Darkness Pokémon,60,85,42,85,42,91
+199,Slowking,70.0,Normal,Royal Pokémon,95.0,75.0,80.0,100.0,110.0,30.0
+200,Misdreavus,45,Normal,Screech Pokémon,60,60,60,85,85,85
+201,Unown,225,Normal,Symbol Pokémon,48,72,48,72,48,48
+202,Wobbuffet,45,Normal,Patient Pokémon,190,33,58,33,58,33
+203,Girafarig,60,Normal,Long Neck Pokémon,70,80,65,90,65,85
+204,Pineco,190,Normal,Bagworm Pokémon,50,65,90,35,35,15
+205,Forretress,75,Normal,Bagworm Pokémon,75,90,140,60,60,40
+206,Dunsparce,190,Normal,Land Snake Pokémon,100,70,70,65,65,45
+207,Gligar,60,Normal,FlyScorpion Pokémon,65,75,105,35,65,85
+208,Steelix,25,Normal,Iron Snake Pokémon,75,85,200,55,65,30
+208,Mega Steelix,25,Normal,Iron Snake Pokémon,75,125,230,55,95,30
+209,Snubbull,190,Normal,Fairy Pokémon,60,80,50,40,40,30
+210,Granbull,75,Normal,Fairy Pokémon,90,120,75,60,60,45
+211,Qwilfish,45,Normal,Balloon Pokémon,65,95,85,55,55,85
+212,Scizor,25,Normal,Pincer Pokémon,70,130,100,55,80,65
+212,Mega Scizor,25,Normal,Pincer Pokémon,70,150,140,65,100,75
+213,Shuckle,190,Normal,Mold Pokémon,20,10,230,10,230,5
+214,Heracross,45,Normal,Single Horn Pokémon,80,125,75,40,95,85
+214,Mega Heracross,45,Normal,Single Horn Pokémon,80,185,115,40,105,75
+215,Sneasel,60,Normal,Sharp Claw Pokémon,55,95,55,35,75,115
+216,Teddiursa,120,Normal,Little Bear Pokémon,60,80,50,50,50,40
+217,Ursaring,60,Normal,Hibernator Pokémon,90,130,75,75,75,55
+218,Slugma,190,Normal,Lava Pokémon,40,40,40,70,40,20
+219,Magcargo,75,Normal,Lava Pokémon,60,50,120,90,80,30
+220,Swinub,225,Normal,Pig Pokémon,50,50,40,30,30,50
+221,Piloswine,75,Normal,Swine Pokémon,100,100,80,60,60,50
+222,Corsola,60.0,Normal,Coral Pokémon,65,55,95,65,95,35
+222,Galarian Corsola,,Normal,Coral Pokémon,60,55,100,65,100,30
+223,Remoraid,190,Normal,Jet Pokémon,35,65,35,65,35,65
+224,Octillery,75,Normal,Jet Pokémon,75,105,75,105,75,45
+225,Delibird,45,Normal,Delivery Pokémon,45,55,45,65,45,75
+226,Mantine,25,Normal,Kite Pokémon,85,40,70,80,140,70
+227,Skarmory,25,Normal,Armor Bird Pokémon,65,80,140,40,70,70
+228,Houndour,120,Normal,Dark Pokémon,45,60,30,80,50,65
+229,Houndoom,45,Normal,Dark Pokémon,75,90,50,110,80,95
+229,Mega Houndoom,45,Normal,Dark Pokémon,75,90,90,140,90,115
+230,Kingdra,45,Normal,Dragon Pokémon,75,95,95,95,95,85
+231,Phanpy,120,Normal,Long Nose Pokémon,90,60,60,40,40,40
+232,Donphan,60,Normal,Armor Pokémon,90,120,120,60,60,50
+233,Porygon2,45,Normal,Virtual Pokémon,85,80,90,105,95,60
+234,Stantler,45,Normal,Big Horn Pokémon,73,95,62,85,65,85
+235,Smeargle,45,Normal,Painter Pokémon,55,20,35,20,45,75
+236,Tyrogue,75,Normal,Scuffle Pokémon,35,35,35,35,35,35
+237,Hitmontop,45,Normal,Handstand Pokémon,50,95,95,35,110,70
+238,Smoochum,45,Normal,Kiss Pokémon,45,30,15,85,65,65
+239,Elekid,45,Normal,Electric Pokémon,45,63,37,65,55,95
+240,Magby,45,Normal,Live Coal Pokémon,45,75,37,70,55,83
+241,Miltank,45,Normal,Milk Cow Pokémon,95,80,105,40,70,100
+242,Blissey,30,Normal,Happiness Pokémon,255,10,10,75,135,55
+243,Raikou,3,Sub Legendary,Thunder Pokémon,90,85,75,115,100,115
+244,Entei,3,Sub Legendary,Volcano Pokémon,115,115,85,90,75,100
+245,Suicune,3,Sub Legendary,Aurora Pokémon,100,75,115,90,115,85
+246,Larvitar,45,Normal,Rock Skin Pokémon,50,64,50,45,50,41
+247,Pupitar,45,Normal,Hard Shell Pokémon,70,84,70,65,70,51
+248,Tyranitar,45,Normal,Armor Pokémon,100,134,110,95,100,61
+248,Mega Tyranitar,45,Normal,Armor Pokémon,100,164,150,95,120,71
+249,Lugia,3,Legendary,Diving Pokémon,106,90,130,90,154,110
+250,Ho-oh,3,Legendary,Rainbow Pokémon,106,130,90,110,154,90
+251,Celebi,45,Mythical,Time Travel Pokémon,100,100,100,100,100,100
+252,Treecko,45,Normal,Wood Gecko Pokémon,40,45,35,65,55,70
+253,Grovyle,45,Normal,Wood Gecko Pokémon,50,65,45,85,65,95
+254,Sceptile,45,Normal,Forest Pokémon,70,85,65,105,85,120
+254,Mega Sceptile,45,Normal,Forest Pokémon,70,110,75,145,85,145
+255,Torchic,45,Normal,Chick Pokémon,45,60,40,70,50,45
+256,Combusken,45,Normal,Young Fowl Pokémon,60,85,60,85,60,55
+257,Blaziken,45,Normal,Blaze Pokémon,80,120,70,110,70,80
+257,Mega Blaziken,45,Normal,Blaze Pokémon,80,160,80,130,80,100
+258,Mudkip,45,Normal,Mud Fish Pokémon,50,70,50,50,50,40
+259,Marshtomp,45,Normal,Mud Fish Pokémon,70,85,70,60,70,50
+260,Swampert,45,Normal,Mud Fish Pokémon,100,110,90,85,90,60
+260,Mega Swampert,45,Normal,Mud Fish Pokémon,100,150,110,95,110,70
+261,Poochyena,255,Normal,Bite Pokémon,35,55,35,30,30,35
+262,Mightyena,127,Normal,Bite Pokémon,70,90,70,60,60,70
+263,Zigzagoon,255.0,Normal,TinyRaccoon Pokémon,38,30,41,30,41,60
+263,Galarian Zigzagoon,,Normal,Tiny Raccoon Pokémon,38,30,41,30,41,60
+264,Linoone,90.0,Normal,Rushing Pokémon,78,70,61,50,61,100
+264,Galarian Linoone,,Normal,Rushing Pokémon,78,70,61,50,61,100
+265,Wurmple,255,Normal,Worm Pokémon,45,45,35,20,30,20
+266,Silcoon,120,Normal,Cocoon Pokémon,50,35,55,25,25,15
+267,Beautifly,45,Normal,Butterfly Pokémon,60,70,50,100,50,65
+268,Cascoon,120,Normal,Cocoon Pokémon,50,35,55,25,25,15
+269,Dustox,45,Normal,Poison Moth Pokémon,60,50,70,50,90,65
+270,Lotad,255,Normal,Water Weed Pokémon,40,30,30,40,50,30
+271,Lombre,120,Normal,Jolly Pokémon,60,50,50,60,70,50
+272,Ludicolo,45,Normal,Carefree Pokémon,80,70,70,90,100,70
+273,Seedot,255,Normal,Acorn Pokémon,40,40,50,30,30,30
+274,Nuzleaf,120,Normal,Wily Pokémon,70,70,40,60,40,60
+275,Shiftry,45,Normal,Wicked Pokémon,90,100,60,90,60,80
+276,Taillow,200,Normal,TinySwallow Pokémon,40,55,30,30,30,85
+277,Swellow,45,Normal,Swallow Pokémon,60,85,60,75,50,125
+278,Wingull,190,Normal,Seagull Pokémon,40,30,30,55,30,85
+279,Pelipper,45,Normal,Water Bird Pokémon,60,50,100,95,70,65
+280,Ralts,235,Normal,Feeling Pokémon,28,25,25,45,35,40
+281,Kirlia,120,Normal,Emotion Pokémon,38,35,35,65,55,50
+282,Gardevoir,45,Normal,Embrace Pokémon,68,65,65,125,115,80
+282,Mega Gardevoir,45,Normal,Embrace Pokémon,68,85,65,165,135,100
+283,Surskit,200,Normal,Pond Skater Pokémon,40,30,32,50,52,65
+284,Masquerain,75,Normal,Eyeball Pokémon,70,60,62,100,82,80
+285,Shroomish,255,Normal,Mushroom Pokémon,60,40,60,40,60,35
+286,Breloom,90,Normal,Mushroom Pokémon,60,130,80,60,60,70
+287,Slakoth,255,Normal,Slacker Pokémon,60,60,60,35,35,30
+288,Vigoroth,120,Normal,Wild Monkey Pokémon,80,80,80,55,55,90
+289,Slaking,45,Normal,Lazy Pokémon,150,160,100,95,65,100
+290,Nincada,255,Normal,Trainee Pokémon,31,45,90,30,30,40
+291,Ninjask,120,Normal,Ninja Pokémon,61,90,45,50,50,160
+292,Shedinja,45,Normal,Shed Pokémon,1,90,45,30,30,40
+293,Whismur,190,Normal,Whisper Pokémon,64,51,23,51,23,28
+294,Loudred,120,Normal,Big Voice Pokémon,84,71,43,71,43,48
+295,Exploud,45,Normal,Loud Noise Pokémon,104,91,63,91,73,68
+296,Makuhita,180,Normal,Guts Pokémon,72,60,30,20,30,25
+297,Hariyama,200,Normal,Arm Thrust Pokémon,144,120,60,40,60,50
+298,Azurill,150,Normal,Polka Dot Pokémon,50,20,40,20,40,20
+299,Nosepass,255,Normal,Compass Pokémon,30,45,135,45,90,30
+300,Skitty,255,Normal,Kitten Pokémon,50,45,45,35,35,50
+301,Delcatty,60,Normal,Prim Pokémon,70,65,65,55,55,90
+302,Sableye,45,Normal,Darkness Pokémon,50,75,75,65,65,50
+302,Mega Sableye,45,Normal,Darkness Pokémon,50,85,125,85,115,20
+303,Mawile,45,Normal,Deceiver Pokémon,50,85,85,55,55,50
+303,Mega Mawile,45,Normal,Deceiver Pokémon,50,105,125,55,95,50
+304,Aron,180,Normal,Iron Armor Pokémon,50,70,100,40,40,30
+305,Lairon,90,Normal,Iron Armor Pokémon,60,90,140,50,50,40
+306,Aggron,45,Normal,Iron Armor Pokémon,70,110,180,60,60,50
+306,Mega Aggron,45,Normal,Iron Armor Pokémon,70,140,230,60,80,50
+307,Meditite,180,Normal,Meditate Pokémon,30,40,55,40,55,60
+308,Medicham,90,Normal,Meditate Pokémon,60,60,75,60,75,80
+308,Mega Medicham,90,Normal,Meditate Pokémon,60,100,85,80,85,100
+309,Electrike,120,Normal,Lightning Pokémon,40,45,40,65,40,65
+310,Manectric,45,Normal,Discharge Pokémon,70,75,60,105,60,105
+310,Mega Manectric,45,Normal,Discharge Pokémon,70,75,80,135,80,135
+311,Plusle,200,Normal,Cheering Pokémon,60,50,40,85,75,95
+312,Minun,200,Normal,Cheering Pokémon,60,40,50,75,85,95
+313,Volbeat,150,Normal,Firefly Pokémon,65,73,75,47,85,85
+314,Illumise,150,Normal,Firefly Pokémon,65,47,75,73,85,85
+315,Roselia,150,Normal,Thorn Pokémon,50,60,45,100,80,65
+316,Gulpin,225,Normal,Stomach Pokémon,70,43,53,43,53,40
+317,Swalot,75,Normal,Poison Bag Pokémon,100,73,83,73,83,55
+318,Carvanha,225,Normal,Savage Pokémon,45,90,20,65,20,65
+319,Sharpedo,60,Normal,Brutal Pokémon,70,120,40,95,40,95
+319,Mega Sharpedo,60,Normal,Brutal Pokémon,70,140,70,110,65,105
+320,Wailmer,125,Normal,Ball Whale Pokémon,130,70,35,70,35,60
+321,Wailord,60,Normal,Float Whale Pokémon,170,90,45,90,45,60
+322,Numel,255,Normal,Numb Pokémon,60,60,40,65,45,35
+323,Camerupt,150,Normal,Eruption Pokémon,70,100,70,105,75,40
+323,Mega Camerupt,150,Normal,Eruption Pokémon,70,120,100,145,105,20
+324,Torkoal,90,Normal,Coal Pokémon,70,85,140,85,70,20
+325,Spoink,255,Normal,Bounce Pokémon,60,25,35,70,80,60
+326,Grumpig,60,Normal,Manipulate Pokémon,80,45,65,90,110,80
+327,Spinda,255,Normal,Spot Panda Pokémon,60,60,60,60,60,60
+328,Trapinch,255,Normal,Ant Pit Pokémon,45,100,45,45,45,10
+329,Vibrava,120,Normal,Vibration Pokémon,50,70,50,50,50,70
+330,Flygon,45,Normal,Mystic Pokémon,80,100,80,80,80,100
+331,Cacnea,190,Normal,Cactus Pokémon,50,85,40,85,40,35
+332,Cacturne,60,Normal,Scarecrow Pokémon,70,115,60,115,60,55
+333,Swablu,255,Normal,Cotton Bird Pokémon,45,40,60,40,75,50
+334,Altaria,45,Normal,Humming Pokémon,75,70,90,70,105,80
+334,Mega Altaria,45,Normal,Humming Pokémon,75,110,110,110,105,80
+335,Zangoose,90,Normal,Cat Ferret Pokémon,73,115,60,60,60,90
+336,Seviper,90,Normal,Fang Snake Pokémon,73,100,60,100,60,65
+337,Lunatone,45,Normal,Meteorite Pokémon,90,55,65,95,85,70
+338,Solrock,45,Normal,Meteorite Pokémon,90,95,85,55,65,70
+339,Barboach,190,Normal,Whiskers Pokémon,50,48,43,46,41,60
+340,Whiscash,75,Normal,Whiskers Pokémon,110,78,73,76,71,60
+341,Corphish,205,Normal,Ruffian Pokémon,43,80,65,50,35,35
+342,Crawdaunt,155,Normal,Rogue Pokémon,63,120,85,90,55,55
+343,Baltoy,255,Normal,Clay Doll Pokémon,40,40,55,40,70,55
+344,Claydol,90,Normal,Clay Doll Pokémon,60,70,105,70,120,75
+345,Lileep,45,Normal,Sea Lily Pokémon,66,41,77,61,87,23
+346,Cradily,45,Normal,Barnacle Pokémon,86,81,97,81,107,43
+347,Anorith,45,Normal,Old Shrimp Pokémon,45,95,50,40,50,75
+348,Armaldo,45,Normal,Plate Pokémon,75,125,100,70,80,45
+349,Feebas,255,Normal,Fish Pokémon,20,15,20,10,55,80
+350,Milotic,60,Normal,Tender Pokémon,95,60,79,100,125,81
+351,Castform,45,Normal,Weather Pokémon,70,70,70,70,70,70
+351,Castform Sunny Form,45,Normal,Weather Pokémon,70,70,70,70,70,70
+351,Castform Rainy Form,45,Normal,Weather Pokémon,70,70,70,70,70,70
+351,Castform Snowy Form,45,Normal,Weather Pokémon,70,70,70,70,70,70
+352,Kecleon,200,Normal,Color Swap Pokémon,60,90,70,60,120,40
+353,Shuppet,225,Normal,Puppet Pokémon,44,75,35,63,33,45
+354,Banette,45,Normal,Marionette Pokémon,64,115,65,83,63,65
+354,Mega Banette,45,Normal,Marionette Pokémon,64,165,75,93,83,75
+355,Duskull,190,Normal,Requiem Pokémon,20,40,90,30,90,25
+356,Dusclops,90,Normal,Beckon Pokémon,40,70,130,60,130,25
+357,Tropius,200,Normal,Fruit Pokémon,99,68,83,72,87,51
+358,Chimecho,45,Normal,Wind Chime Pokémon,75,50,80,95,90,65
+359,Absol,30,Normal,Disaster Pokémon,65,130,60,75,60,75
+359,Mega Absol,30,Normal,Disaster Pokémon,65,150,60,115,60,115
+360,Wynaut,125,Normal,Bright Pokémon,95,23,48,23,48,23
+361,Snorunt,190,Normal,Snow Hat Pokémon,50,50,50,50,50,50
+362,Glalie,75,Normal,Face Pokémon,80,80,80,80,80,80
+362,Mega Glalie,75,Normal,Face Pokémon,80,120,80,120,80,100
+363,Spheal,255,Normal,Clap Pokémon,70,40,50,55,50,25
+364,Sealeo,120,Normal,Ball Roll Pokémon,90,60,70,75,70,45
+365,Walrein,45,Normal,Ice Break Pokémon,110,80,90,95,90,65
+366,Clamperl,255,Normal,Bivalve Pokémon,35,64,85,74,55,32
+367,Huntail,60,Normal,Deep Sea Pokémon,55,104,105,94,75,52
+368,Gorebyss,60,Normal,South Sea Pokémon,55,84,105,114,75,52
+369,Relicanth,25,Normal,Longevity Pokémon,100,90,130,45,65,55
+370,Luvdisc,225,Normal,Rendezvous Pokémon,43,30,55,40,65,97
+371,Bagon,45,Normal,Rock Head Pokémon,45,75,60,40,30,50
+372,Shelgon,45,Normal,Endurance Pokémon,65,95,100,60,50,50
+373,Salamence,45,Normal,Dragon Pokémon,95,135,80,110,80,100
+373,Mega Salamence,45,Normal,Dragon Pokémon,95,145,130,120,90,120
+374,Beldum,3,Normal,Iron Ball Pokémon,40,55,80,35,60,30
+375,Metang,3,Normal,Iron Claw Pokémon,60,75,100,55,80,50
+376,Metagross,3,Normal,Iron Leg Pokémon,80,135,130,95,90,70
+376,Mega Metagross,3,Normal,Iron Leg Pokémon,80,145,150,105,110,110
+377,Regirock,3,Sub Legendary,Rock Peak Pokémon,80,100,200,50,100,50
+378,Regice,3,Sub Legendary,Iceberg Pokémon,80,50,100,100,200,50
+379,Registeel,3,Sub Legendary,Iron Pokémon,80,75,150,75,150,50
+380,Latias,3,Sub Legendary,Eon Pokémon,80,80,90,110,130,110
+380,Mega Latias,3,Sub Legendary,Eon Pokémon,80,100,120,140,150,110
+381,Latios,3,Sub Legendary,Eon Pokémon,80,90,80,130,110,110
+381,Mega Latios,3,Sub Legendary,Eon Pokémon,80,130,100,160,120,110
+382,Kyogre,3,Legendary,Sea Basin Pokémon,100,100,90,150,140,90
+382,Primal Kyogre,5,Legendary,Sea Basin Pokémon,100,150,90,180,160,90
+383,Groudon,3,Legendary,Continent Pokémon,100,150,140,100,90,90
+383,Primal Groudon,5,Legendary,Continent Pokémon,100,180,160,150,90,90
+384,Rayquaza,45,Legendary,Sky High Pokémon,105,150,90,150,90,95
+384,Mega Rayquaza,3,Legendary,Sky High Pokémon,105,180,100,180,100,115
+385,Jirachi,3,Mythical,Wish Pokémon,100,100,100,100,100,100
+386,Deoxys Normal Forme,3,Mythical,DNA Pokémon,50,150,50,150,50,150
+386,Deoxys Attack Forme,3,Mythical,DNA Pokémon,50,180,20,180,20,150
+386,Deoxys Defense Forme,3,Mythical,DNA Pokémon,50,70,160,70,160,90
+386,Deoxys Speed Forme,3,Mythical,DNA Pokémon,50,95,90,95,90,180
+387,Turtwig,45,Normal,Tiny Leaf Pokémon,55,68,64,45,55,31
+388,Grotle,45,Normal,Grove Pokémon,75,89,85,55,65,36
+389,Torterra,45,Normal,Continent Pokémon,95,109,105,75,85,56
+390,Chimchar,45,Normal,Chimp Pokémon,44,58,44,58,44,61
+391,Monferno,45,Normal,Playful Pokémon,64,78,52,78,52,81
+392,Infernape,45,Normal,Flame Pokémon,76,104,71,104,71,108
+393,Piplup,45,Normal,Penguin Pokémon,53,51,53,61,56,40
+394,Prinplup,45,Normal,Penguin Pokémon,64,66,68,81,76,50
+395,Empoleon,45,Normal,Emperor Pokémon,84,86,88,111,101,60
+396,Starly,255,Normal,Starling Pokémon,40,55,30,30,30,60
+397,Staravia,120,Normal,Starling Pokémon,55,75,50,40,40,80
+398,Staraptor,45,Normal,Predator Pokémon,85,120,70,50,60,100
+399,Bidoof,255,Normal,Plump Mouse Pokémon,59,45,40,35,40,31
+400,Bibarel,127,Normal,Beaver Pokémon,79,85,60,55,60,71
+401,Kricketot,255,Normal,Cricket Pokémon,37,25,41,25,41,25
+402,Kricketune,45,Normal,Cricket Pokémon,77,85,51,55,51,65
+403,Shinx,235,Normal,Flash Pokémon,45,65,34,40,34,45
+404,Luxio,120,Normal,Spark Pokémon,60,85,49,60,49,60
+405,Luxray,45,Normal,Gleam Eyes Pokémon,80,120,79,95,79,70
+406,Budew,255,Normal,Bud Pokémon,40,30,35,50,70,55
+407,Roserade,75,Normal,Bouquet Pokémon,60,70,65,125,105,90
+408,Cranidos,45,Normal,Head Butt Pokémon,67,125,40,30,30,58
+409,Rampardos,45,Normal,Head Butt Pokémon,97,165,60,65,50,58
+410,Shieldon,45,Normal,Shield Pokémon,30,42,118,42,88,30
+411,Bastiodon,45,Normal,Shield Pokémon,60,52,168,47,138,30
+412,Burmy,120,Normal,Bagworm Pokémon,40,29,45,29,45,36
+413,Wormadam Plant Cloak,45,Normal,Bagworm Pokémon,60,59,85,79,105,36
+413,Wormadam Sandy Cloak,45,Normal,Bagworm Pokémon,60,79,105,59,85,36
+413,Wormadam Trash Cloak,45,Normal,Bagworm Pokémon,60,69,95,69,95,36
+414,Mothim,45,Normal,Moth Pokémon,70,94,50,94,50,66
+415,Combee,120,Normal,Tiny Bee Pokémon,30,30,42,30,42,70
+416,Vespiquen,45,Normal,Beehive Pokémon,70,80,102,80,102,40
+417,Pachirisu,200,Normal,EleSquirrel Pokémon,60,45,70,45,90,95
+418,Buizel,190,Normal,Sea Weasel Pokémon,55,65,35,60,30,85
+419,Floatzel,75,Normal,Sea Weasel Pokémon,85,105,55,85,50,115
+420,Cherubi,190,Normal,Cherry Pokémon,45,35,45,62,53,35
+421,Cherrim,75,Normal,Blossom Pokémon,70,60,70,87,78,85
+422,Shellos,190,Normal,Sea Slug Pokémon,76,48,48,57,62,34
+423,Gastrodon,75,Normal,Sea Slug Pokémon,111,83,68,92,82,39
+424,Ambipom,45,Normal,Long Tail Pokémon,75,100,66,60,66,115
+425,Drifloon,125,Normal,Balloon Pokémon,90,50,34,60,44,70
+426,Drifblim,60,Normal,Blimp Pokémon,150,80,44,90,54,80
+427,Buneary,190,Normal,Rabbit Pokémon,55,66,44,44,56,85
+428,Lopunny,60,Normal,Rabbit Pokémon,65,76,84,54,96,105
+428,Mega Lopunny,60,Normal,Rabbit Pokémon,65,136,94,54,96,135
+429,Mismagius,45,Normal,Magical Pokémon,60,60,60,105,105,105
+430,Honchkrow,30,Normal,Big Boss Pokémon,100,125,52,105,52,71
+431,Glameow,190,Normal,Catty Pokémon,49,55,42,42,37,85
+432,Purugly,75,Normal,Tiger Cat Pokémon,71,82,64,64,59,112
+433,Chingling,120,Normal,Bell Pokémon,45,30,50,65,50,45
+434,Stunky,225,Normal,Skunk Pokémon,63,63,47,41,41,74
+435,Skuntank,60,Normal,Skunk Pokémon,103,93,67,71,61,84
+436,Bronzor,255,Normal,Bronze Pokémon,57,24,86,24,86,23
+437,Bronzong,90,Normal,Bronze Bell Pokémon,67,89,116,79,116,33
+438,Bonsly,255,Normal,Bonsai Pokémon,50,80,95,10,45,10
+439,Mime Jr.,145,Normal,Mime Pokémon,20,25,45,70,90,60
+440,Happiny,130,Normal,Playhouse Pokémon,100,5,5,15,65,30
+441,Chatot,30,Normal,Music Note Pokémon,76,65,45,92,42,91
+442,Spiritomb,100,Normal,Forbidden Pokémon,50,92,108,92,108,35
+443,Gible,45,Normal,Land Shark Pokémon,58,70,45,40,45,42
+444,Gabite,45,Normal,Cave Pokémon,68,90,65,50,55,82
+445,Garchomp,45,Normal,Mach Pokémon,108,130,95,80,85,102
+445,Mega Garchomp,45,Normal,Mach Pokémon,108,170,115,120,95,92
+446,Munchlax,50,Normal,Big Eater Pokémon,135,85,40,40,85,5
+447,Riolu,75,Normal,Emanation Pokémon,40,70,40,35,40,60
+448,Lucario,45,Normal,Aura Pokémon,70,110,70,115,70,90
+448,Mega Lucario,45,Normal,Aura Pokémon,70,145,88,140,70,112
+449,Hippopotas,140,Normal,Hippo Pokémon,68,72,78,38,42,32
+450,Hippowdon,60,Normal,Heavyweight Pokémon,108,112,118,68,72,47
+451,Skorupi,120,Normal,Scorpion Pokémon,40,50,90,30,55,65
+452,Drapion,45,Normal,Ogre Scorp Pokémon,70,90,110,60,75,95
+453,Croagunk,140,Normal,Toxic Mouth Pokémon,48,61,40,61,40,50
+454,Toxicroak,75,Normal,Toxic Mouth Pokémon,83,106,65,86,65,85
+455,Carnivine,200,Normal,Bug Catcher Pokémon,74,100,72,90,72,46
+456,Finneon,190,Normal,Wing Fish Pokémon,49,49,56,49,61,66
+457,Lumineon,75,Normal,Neon Pokémon,69,69,76,69,86,91
+458,Mantyke,25,Normal,Kite Pokémon,45,20,50,60,120,50
+459,Snover,120,Normal,Frost Tree Pokémon,60,62,50,62,60,40
+460,Abomasnow,60,Normal,Frost Tree Pokémon,90,92,75,92,85,60
+460,Mega Abomasnow,60,Normal,Frost Tree Pokémon,90,132,105,132,105,30
+461,Weavile,45,Normal,Sharp Claw Pokémon,70,120,65,45,85,125
+462,Magnezone,30,Normal,Magnet Area Pokémon,70,70,115,130,90,60
+463,Lickilicky,30,Normal,Licking Pokémon,110,85,95,80,95,50
+464,Rhyperior,30,Normal,Drill Pokémon,115,140,130,55,55,40
+465,Tangrowth,30,Normal,Vine Pokémon,100,100,125,110,50,50
+466,Electivire,30,Normal,Thunderbolt Pokémon,75,123,67,95,85,95
+467,Magmortar,30,Normal,Blast Pokémon,75,95,67,125,95,83
+468,Togekiss,30,Normal,Jubilee Pokémon,85,50,95,120,115,80
+469,Yanmega,30,Normal,Ogre Darner Pokémon,86,76,86,116,56,95
+470,Leafeon,45,Normal,Verdant Pokémon,65,110,130,60,65,95
+471,Glaceon,45,Normal,Fresh Snow Pokémon,65,60,110,130,95,65
+472,Gliscor,30,Normal,Fang Scorp Pokémon,75,95,125,45,75,95
+473,Mamoswine,50,Normal,Twin Tusk Pokémon,110,130,80,70,60,80
+474,Porygon-Z,30,Normal,Virtual Pokémon,85,80,70,135,75,90
+475,Gallade,45,Normal,Blade Pokémon,68,125,65,65,115,80
+475,Mega Gallade,45,Normal,Blade Pokémon,68,165,95,65,115,110
+476,Probopass,60,Normal,Compass Pokémon,60,55,145,75,150,40
+477,Dusknoir,45,Normal,Gripper Pokémon,45,100,135,65,135,45
+478,Froslass,75,Normal,Snow Land Pokémon,70,80,70,80,70,110
+479,Rotom,45,Normal,Plasma Pokémon,50,50,77,95,77,91
+479,Heat Rotom,45,Normal,Plasma Pokémon,50,65,107,105,107,86
+479,Wash Rotom,45,Normal,Plasma Pokémon,50,65,107,105,107,86
+479,Frost Rotom,45,Normal,Plasma Pokémon,50,65,107,105,107,86
+479,Fan Rotom,45,Normal,Plasma Pokémon,50,65,107,105,107,86
+479,Mow Rotom,45,Normal,Plasma Pokémon,50,65,107,105,107,86
+480,Uxie,3,Sub Legendary,Knowledge Pokémon,75,75,130,75,130,95
+481,Mesprit,3,Sub Legendary,Emotion Pokémon,80,105,105,105,105,80
+482,Azelf,3,Sub Legendary,Willpower Pokémon,75,125,70,125,70,115
+483,Dialga,3,Legendary,Temporal Pokémon,100,120,120,150,100,90
+484,Palkia,3,Legendary,Spatial Pokémon,90,120,100,150,120,100
+485,Heatran,3,Sub Legendary,Lava Dome Pokémon,91,90,106,130,106,77
+486,Regigigas,3,Sub Legendary,Colossal Pokémon,110,160,110,80,110,100
+487,Giratina Altered Forme,3,Legendary,Renegade Pokémon,150,100,120,100,120,90
+487,Giratina Origin Forme,3,Legendary,Renegade Pokémon,150,120,100,120,100,90
+488,Cresselia,3,Sub Legendary,Lunar Pokémon,120,70,120,75,130,85
+489,Phione,30,Mythical,Sea Drifter Pokémon,80,80,80,80,80,80
+490,Manaphy,3,Mythical,Seafaring Pokémon,100,100,100,100,100,100
+491,Darkrai,3,Mythical,Pitch-Black Pokémon,70,90,90,135,90,125
+492,Shaymin Land Forme,45,Mythical,Gratitude Pokémon,100,100,100,100,100,100
+492,Shaymin Sky Forme,45,Mythical,Gratitude Pokémon,100,103,75,120,75,127
+493,Arceus,3,Mythical,Alpha Pokémon,120,120,120,120,120,120
+494,Victini,3,Mythical,Victory Pokémon,100,100,100,100,100,100
+495,Snivy,45,Normal,Grass Snake Pokémon,45,45,55,45,55,63
+496,Servine,45,Normal,Grass Snake Pokémon,60,60,75,60,75,83
+497,Serperior,45,Normal,Regal Pokémon,75,75,95,75,95,113
+498,Tepig,45,Normal,Fire Pig Pokémon,65,63,45,45,45,45
+499,Pignite,45,Normal,Fire Pig Pokémon,90,93,55,70,55,55
+500,Emboar,45,Normal,Mega Fire Pig Pokémon,110,123,65,100,65,65
+501,Oshawott,45,Normal,Sea Otter Pokémon,55,55,45,63,45,45
+502,Dewott,45,Normal,Discipline Pokémon,75,75,60,83,60,60
+503,Samurott,45,Normal,Formidable Pokémon,95,100,85,108,70,70
+504,Patrat,255,Normal,Scout Pokémon,45,55,39,35,39,42
+505,Watchog,255,Normal,Lookout Pokémon,60,85,69,60,69,77
+506,Lillipup,255,Normal,Puppy Pokémon,45,60,45,25,45,55
+507,Herdier,120,Normal,Loyal Dog Pokémon,65,80,65,35,65,60
+508,Stoutland,45,Normal,Big-Hearted Pokémon,85,110,90,45,90,80
+509,Purrloin,255,Normal,Devious Pokémon,41,50,37,50,37,66
+510,Liepard,90,Normal,Cruel Pokémon,64,88,50,88,50,106
+511,Pansage,190,Normal,Grass Monkey Pokémon,50,53,48,53,48,64
+512,Simisage,75,Normal,Thorn Monkey Pokémon,75,98,63,98,63,101
+513,Pansear,190,Normal,High Temp Pokémon,50,53,48,53,48,64
+514,Simisear,75,Normal,Ember Pokémon,75,98,63,98,63,101
+515,Panpour,190,Normal,Spray Pokémon,50,53,48,53,48,64
+516,Simipour,75,Normal,Geyser Pokémon,75,98,63,98,63,101
+517,Munna,190,Normal,Dream Eater Pokémon,76,25,45,67,55,24
+518,Musharna,75,Normal,Drowsing Pokémon,116,55,85,107,95,29
+519,Pidove,255,Normal,Tiny Pigeon Pokémon,50,55,50,36,30,43
+520,Tranquill,120,Normal,Wild Pigeon Pokémon,62,77,62,50,42,65
+521,Unfezant,45,Normal,Proud Pokémon,80,115,80,65,55,93
+522,Blitzle,190,Normal,Electrified Pokémon,45,60,32,50,32,76
+523,Zebstrika,75,Normal,Thunderbolt Pokémon,75,100,63,80,63,116
+524,Roggenrola,255,Normal,Mantle Pokémon,55,75,85,25,25,15
+525,Boldore,120,Normal,Ore Pokémon,70,105,105,50,40,20
+526,Gigalith,45,Normal,Compressed Pokémon,85,135,130,60,80,25
+527,Woobat,190,Normal,Bat Pokémon,65,45,43,55,43,72
+528,Swoobat,45,Normal,Courting Pokémon,67,57,55,77,55,114
+529,Drilbur,120,Normal,Mole Pokémon,60,85,40,30,45,68
+530,Excadrill,60,Normal,Subterrene Pokémon,110,135,60,50,65,88
+531,Audino,255,Normal,Hearing Pokémon,103,60,86,60,86,50
+531,Mega Audino,255,Normal,Hearing Pokémon,103,60,126,80,126,50
+532,Timburr,180,Normal,Muscular Pokémon,75,80,55,25,35,35
+533,Gurdurr,90,Normal,Muscular Pokémon,85,105,85,40,50,40
+534,Conkeldurr,45,Normal,Muscular Pokémon,105,140,95,55,65,45
+535,Tympole,255,Normal,Tadpole Pokémon,50,50,40,50,40,64
+536,Palpitoad,120,Normal,Vibration Pokémon,75,65,55,65,55,69
+537,Seismitoad,45,Normal,Vibration Pokémon,105,95,75,85,75,74
+538,Throh,45,Normal,Judo Pokémon,120,100,85,30,85,45
+539,Sawk,45,Normal,Karate Pokémon,75,125,75,30,75,85
+540,Sewaddle,255,Normal,Sewing Pokémon,45,53,70,40,60,42
+541,Swadloon,120,Normal,Leaf-Wrapped Pokémon,55,63,90,50,80,42
+542,Leavanny,45,Normal,Nurturing Pokémon,75,103,80,70,80,92
+543,Venipede,255,Normal,Centipede Pokémon,30,45,59,30,39,57
+544,Whirlipede,120,Normal,Curlipede Pokémon,40,55,99,40,79,47
+545,Scolipede,45,Normal,Megapede Pokémon,60,100,89,55,69,112
+546,Cottonee,190,Normal,Cotton Puff Pokémon,40,27,60,37,50,66
+547,Whimsicott,75,Normal,Windveiled Pokémon,60,67,85,77,75,116
+548,Petilil,190,Normal,Bulb Pokémon,45,35,50,70,50,30
+549,Lilligant,75,Normal,Flowering Pokémon,70,60,75,110,75,90
+550,Basculin Red-Striped Form,25,Normal,Hostile Pokémon,70,92,65,80,55,98
+550,Basculin Blue-Striped Form,25,Normal,Hostile Pokémon,70,92,65,80,55,98
+551,Sandile,180,Normal,Desert Croc Pokémon,50,72,35,35,35,65
+552,Krokorok,90,Normal,Desert Croc Pokémon,60,82,45,45,45,74
+553,Krookodile,45,Normal,Intimidation Pokémon,95,117,80,65,70,92
+554,Darumaka,120.0,Normal,Zen Charm Pokémon,70,90,45,15,45,50
+554,Galarian Darumaka,,Normal,Zen Charm Pokémon,70,90,45,15,45,50
+555,Darmanitan Standard Mode,60.0,Normal,Blazing Pokémon,105,140,55,30,55,95
+555,Darmanitan Zen Mode,60.0,Normal,Blazing Pokémon,105,30,105,140,105,55
+555,Darmanitan Galarian Standard Mode,,Normal,Zen Charm Pokémon,105,140,55,30,55,95
+555,Darmanitan Galarian Zen Mode,,Normal,Zen Charm Pokémon,105,160,55,30,55,135
+556,Maractus,255,Normal,Cactus Pokémon,75,86,67,106,67,60
+557,Dwebble,190,Normal,Rock Inn Pokémon,50,65,85,35,35,55
+558,Crustle,75,Normal,Stone Home Pokémon,70,105,125,65,75,45
+559,Scraggy,180,Normal,Shedding Pokémon,50,75,70,35,70,48
+560,Scrafty,90,Normal,Hoodlum Pokémon,65,90,115,45,115,58
+561,Sigilyph,45,Normal,Avianoid Pokémon,72,58,80,103,80,97
+562,Yamask,190.0,Normal,Spirit Pokémon,38,30,85,55,65,30
+562,Galarian Yamask,,Normal,Spirit Pokémon,38,55,85,30,65,30
+563,Cofagrigus,90,Normal,Coffin Pokémon,58,50,145,95,105,30
+564,Tirtouga,45,Normal,Prototurtle Pokémon,54,78,103,53,45,22
+565,Carracosta,45,Normal,Prototurtle Pokémon,74,108,133,83,65,32
+566,Archen,45,Normal,First Bird Pokémon,55,112,45,74,45,70
+567,Archeops,45,Normal,First Bird Pokémon,75,140,65,112,65,110
+568,Trubbish,190,Normal,Trash Bag Pokémon,50,50,62,40,62,65
+569,Garbodor,60,Normal,Trash Heap Pokémon,80,95,82,60,82,75
+570,Zorua,75,Normal,Tricky Fox Pokémon,40,65,40,80,40,65
+571,Zoroark,45,Normal,Illusion Fox Pokémon,60,105,60,120,60,105
+572,Minccino,255,Normal,Chinchilla Pokémon,55,50,40,40,40,75
+573,Cinccino,60,Normal,Scarf Pokémon,75,95,60,65,60,115
+574,Gothita,200,Normal,Fixation Pokémon,45,30,50,55,65,45
+575,Gothorita,100,Normal,Manipulate Pokémon,60,45,70,75,85,55
+576,Gothitelle,50,Normal,Astral Body Pokémon,70,55,95,95,110,65
+577,Solosis,200,Normal,Cell Pokémon,45,30,40,105,50,20
+578,Duosion,100,Normal,Mitosis Pokémon,65,40,50,125,60,30
+579,Reuniclus,50,Normal,Multiplying Pokémon,110,65,75,125,85,30
+580,Ducklett,190,Normal,Water Bird Pokémon,62,44,50,44,50,55
+581,Swanna,45,Normal,White Bird Pokémon,75,87,63,87,63,98
+582,Vanillite,255,Normal,Fresh Snow Pokémon,36,50,50,65,60,44
+583,Vanillish,120,Normal,Icy Snow Pokémon,51,65,65,80,75,59
+584,Vanilluxe,45,Normal,Snowstorm Pokémon,71,95,85,110,95,79
+585,Deerling,190,Normal,Season Pokémon,60,60,50,40,50,75
+586,Sawsbuck,75,Normal,Season Pokémon,80,100,70,60,70,95
+587,Emolga,200,Normal,Sky Squirrel Pokémon,55,75,60,75,60,103
+588,Karrablast,200,Normal,Clamping Pokémon,50,75,45,40,45,60
+589,Escavalier,75,Normal,Cavalry Pokémon,70,135,105,60,105,20
+590,Foongus,190,Normal,Mushroom Pokémon,69,55,45,55,55,15
+591,Amoonguss,75,Normal,Mushroom Pokémon,114,85,70,85,80,30
+592,Frillish,190,Normal,Floating Pokémon,55,40,50,65,85,40
+593,Jellicent,60,Normal,Floating Pokémon,100,60,70,85,105,60
+594,Alomomola,75,Normal,Caring Pokémon,165,75,80,40,45,65
+595,Joltik,190,Normal,Attaching Pokémon,50,47,50,57,50,65
+596,Galvantula,75,Normal,EleSpider Pokémon,70,77,60,97,60,108
+597,Ferroseed,255,Normal,Thorn Seed Pokémon,44,50,91,24,86,10
+598,Ferrothorn,90,Normal,Thorn Pod Pokémon,74,94,131,54,116,20
+599,Klink,130,Normal,Gear Pokémon,40,55,70,45,60,30
+600,Klang,60,Normal,Gear Pokémon,60,80,95,70,85,50
+601,Klinklang,30,Normal,Gear Pokémon,60,100,115,70,85,90
+602,Tynamo,190,Normal,EleFish Pokémon,35,55,40,45,40,60
+603,Eelektrik,60,Normal,EleFish Pokémon,65,85,70,75,70,40
+604,Eelektross,30,Normal,EleFish Pokémon,85,115,80,105,80,50
+605,Elgyem,255,Normal,Cerebral Pokémon,55,55,55,85,55,30
+606,Beheeyem,90,Normal,Cerebral Pokémon,75,75,75,125,95,40
+607,Litwick,190,Normal,Candle Pokémon,50,30,55,65,55,20
+608,Lampent,90,Normal,Lamp Pokémon,60,40,60,95,60,55
+609,Chandelure,45,Normal,Luring Pokémon,60,55,90,145,90,80
+610,Axew,75,Normal,Tusk Pokémon,46,87,60,30,40,57
+611,Fraxure,60,Normal,Axe Jaw Pokémon,66,117,70,40,50,67
+612,Haxorus,45,Normal,Axe Jaw Pokémon,76,147,90,60,70,97
+613,Cubchoo,120,Normal,Chill Pokémon,55,70,40,60,40,40
+614,Beartic,60,Normal,Freezing Pokémon,95,130,80,70,80,50
+615,Cryogonal,25,Normal,Crystallizing Pokémon,80,50,50,95,135,105
+616,Shelmet,200,Normal,Snail Pokémon,50,40,85,40,65,25
+617,Accelgor,75,Normal,Shell Out Pokémon,80,70,40,100,60,145
+618,Stunfisk,75.0,Normal,Trap Pokémon,109,66,84,81,99,32
+618,Galarian Stunfisk,,Normal,Trap Pokémon,109,81,99,66,84,32
+619,Mienfoo,180,Normal,Martial Arts Pokémon,45,85,50,55,50,65
+620,Mienshao,45,Normal,Martial Arts Pokémon,65,125,60,95,60,105
+621,Druddigon,45,Normal,Cave Pokémon,77,120,90,60,90,48
+622,Golett,190,Normal,Automaton Pokémon,59,74,50,35,50,35
+623,Golurk,90,Normal,Automaton Pokémon,89,124,80,55,80,55
+624,Pawniard,120,Normal,Sharp Blade Pokémon,45,85,70,40,40,60
+625,Bisharp,45,Normal,Sword Blade Pokémon,65,125,100,60,70,70
+626,Bouffalant,45,Normal,Bash Buffalo Pokémon,95,110,95,40,95,55
+627,Rufflet,190,Normal,Eaglet Pokémon,70,83,50,37,50,60
+628,Braviary,60,Normal,Valiant Pokémon,100,123,75,57,75,80
+629,Vullaby,190,Normal,Diapered Pokémon,70,55,75,45,65,60
+630,Mandibuzz,60,Normal,Bone Vulture Pokémon,110,65,105,55,95,80
+631,Heatmor,90,Normal,Anteater Pokémon,85,97,66,105,66,65
+632,Durant,90,Normal,Iron Ant Pokémon,58,109,112,48,48,109
+633,Deino,45,Normal,Irate Pokémon,52,65,50,45,50,38
+634,Zweilous,45,Normal,Hostile Pokémon,72,85,70,65,70,58
+635,Hydreigon,45,Normal,Brutal Pokémon,92,105,90,125,90,98
+636,Larvesta,45,Normal,Torch Pokémon,55,85,55,50,55,60
+637,Volcarona,15,Normal,Sun Pokémon,85,60,65,135,105,100
+638,Cobalion,3,Sub Legendary,Iron Will Pokémon,91,90,129,90,72,108
+639,Terrakion,3,Sub Legendary,Cavern Pokémon,91,129,90,72,90,108
+640,Virizion,3,Sub Legendary,Grassland Pokémon,91,90,72,90,129,108
+641,Tornadus Incarnate Forme,3,Sub Legendary,Cyclone Pokémon,79,115,70,125,80,111
+641,Tornadus Therian Forme,3,Sub Legendary,Cyclone Pokémon,79,100,80,110,90,121
+642,Thundurus Incarnate Forme,3,Sub Legendary,Bolt Strike Pokémon,79,115,70,125,80,111
+642,Thundurus Therian Forme,3,Sub Legendary,Bolt Strike Pokémon,79,105,70,145,80,101
+643,Reshiram,3,Legendary,Vast White Pokémon,100,120,100,150,120,90
+644,Zekrom,3,Legendary,Deep Black Pokémon,100,150,120,120,100,90
+645,Landorus Incarnate Forme,3,Sub Legendary,Abundance Pokémon,89,125,90,115,80,101
+645,Landorus Therian Forme,3,Sub Legendary,Abundance Pokémon,89,145,90,105,80,91
+646,Kyurem,3,Legendary,Boundary Pokémon,125,130,90,130,90,95
+646,Black Kyurem,3,Legendary,Boundary Pokémon,125,170,100,120,90,95
+646,White Kyurem,3,Legendary,Boundary Pokémon,125,120,90,170,100,95
+647,Keldeo Ordinary Forme,3,Mythical,Colt Pokémon,91,72,90,129,90,108
+647,Keldeo Resolute Forme,3,Mythical,Colt Pokémon,91,72,90,129,90,108
+648,Meloetta Aria Forme,3,Mythical,Melody Pokémon,100,77,77,128,128,90
+648,Meloetta Pirouette Forme,3,Mythical,Melody Pokémon,100,128,90,77,77,128
+649,Genesect,3,Mythical,Paleozoic Pokémon,71,120,95,120,95,99
+650,Chespin,45,Normal,Spiny Nut Pokémon,56,61,65,48,45,38
+651,Quilladin,45,Normal,Spiny Armor Pokémon,61,78,95,56,58,57
+652,Chesnaught,45,Normal,Spiny Armor Pokémon,88,107,122,74,75,64
+653,Fennekin,45,Normal,Fox Pokémon,40,45,40,62,60,60
+654,Braixen,45,Normal,Fox Pokémon,59,59,58,90,70,73
+655,Delphox,45,Normal,Fox Pokémon,75,69,72,114,100,104
+656,Froakie,45,Normal,Bubble Frog Pokémon,41,56,40,62,44,71
+657,Frogadier,45,Normal,Bubble Frog Pokémon,54,63,52,83,56,97
+658,Greninja,45,Normal,Ninja Pokémon,72,95,67,103,71,122
+658,Ash-Greninja,45,Normal,Ninja Pokémon,72,145,67,153,71,132
+659,Bunnelby,255,Normal,Digging Pokémon,38,36,38,32,36,57
+660,Diggersby,127,Normal,Digging Pokémon,85,56,77,50,77,78
+661,Fletchling,255,Normal,Tiny Robin Pokémon,45,50,43,40,38,62
+662,Fletchinder,120,Normal,Ember Pokémon,62,73,55,56,52,84
+663,Talonflame,45,Normal,Scorching Pokémon,78,81,71,74,69,126
+664,Scatterbug,255,Normal,Scatterdust Pokémon,38,35,40,27,25,35
+665,Spewpa,120,Normal,Scatterdust Pokémon,45,22,60,27,30,29
+666,Vivillon,45,Normal,Scale Pokémon,80,52,50,90,50,89
+667,Litleo,220,Normal,Lion Cub Pokémon,62,50,58,73,54,72
+668,Pyroar,65,Normal,Royal Pokémon,86,68,72,109,66,106
+669,Flabébé,225,Normal,Single Bloom Pokémon,44,38,39,61,79,42
+670,Floette,120,Normal,Single Bloom Pokémon,54,45,47,75,98,52
+671,Florges,45,Normal,Garden Pokémon,78,65,68,112,154,75
+672,Skiddo,200,Normal,Mount Pokémon,66,65,48,62,57,52
+673,Gogoat,45,Normal,Mount Pokémon,123,100,62,97,81,68
+674,Pancham,220,Normal,Playful Pokémon,67,82,62,46,48,43
+675,Pangoro,65,Normal,Daunting Pokémon,95,124,78,69,71,58
+676,Furfrou,160,Normal,Poodle Pokémon,75,80,60,65,90,102
+677,Espurr,190,Normal,Restraint Pokémon,62,48,54,63,60,68
+678,Meowstic Male,75,Normal,Constraint Pokémon,74,48,76,83,81,104
+678,Meowstic Female,75,Normal,Constraint Pokémon,74,48,76,83,81,104
+679,Honedge,180,Normal,Sword Pokémon,45,80,100,35,37,28
+680,Doublade,90,Normal,Sword Pokémon,59,110,150,45,49,35
+681,Aegislash Blade Forme,45,Normal,Royal Sword Pokémon,60,150,50,150,50,60
+681,Aegislash Shield Forme,45,Normal,Royal Sword Pokémon,60,50,150,50,150,60
+682,Spritzee,200,Normal,Perfume Pokémon,78,52,60,63,65,23
+683,Aromatisse,140,Normal,Fragrance Pokémon,101,72,72,99,89,29
+684,Swirlix,200,Normal,Cotton Candy Pokémon,62,48,66,59,57,49
+685,Slurpuff,140,Normal,Meringue Pokémon,82,80,86,85,75,72
+686,Inkay,190,Normal,Revolving Pokémon,53,54,53,37,46,45
+687,Malamar,80,Normal,Overturning Pokémon,86,92,88,68,75,73
+688,Binacle,120,Normal,Two-Handed Pokémon,42,52,67,39,56,50
+689,Barbaracle,45,Normal,Collective Pokémon,72,105,115,54,86,68
+690,Skrelp,225,Normal,Mock Kelp Pokémon,50,60,60,60,60,30
+691,Dragalge,55,Normal,Mock Kelp Pokémon,65,75,90,97,123,44
+692,Clauncher,225,Normal,Water Gun Pokémon,50,53,62,58,63,44
+693,Clawitzer,55,Normal,Howitzer Pokémon,71,73,88,120,89,59
+694,Helioptile,190,Normal,Generator Pokémon,44,38,33,61,43,70
+695,Heliolisk,75,Normal,Generator Pokémon,62,55,52,109,94,109
+696,Tyrunt,45,Normal,Royal Heir Pokémon,58,89,77,45,45,48
+697,Tyrantrum,45,Normal,Despot Pokémon,82,121,119,69,59,71
+698,Amaura,45,Normal,Tundra Pokémon,77,59,50,67,63,46
+699,Aurorus,45,Normal,Tundra Pokémon,123,77,72,99,92,58
+700,Sylveon,45,Normal,Intertwining Pokémon,95,65,65,110,130,60
+701,Hawlucha,100,Normal,Wrestling Pokémon,78,92,75,74,63,118
+702,Dedenne,180,Normal,Antenna Pokémon,67,58,57,81,67,101
+703,Carbink,60,Normal,Jewel Pokémon,50,50,150,50,150,50
+704,Goomy,45,Normal,Soft Tissue Pokémon,45,50,35,55,75,40
+705,Sliggoo,45,Normal,Soft Tissue Pokémon,68,75,53,83,113,60
+706,Goodra,45,Normal,Dragon Pokémon,90,100,70,110,150,80
+707,Klefki,75,Normal,Key Ring Pokémon,57,80,91,80,87,75
+708,Phantump,120,Normal,Stump Pokémon,43,70,48,50,60,38
+709,Trevenant,60,Normal,Elder Tree Pokémon,85,110,76,65,82,56
+710,Pumpkaboo Average Size,120,Normal,Pumpkin Pokémon,49,66,70,44,55,51
+710,Pumpkaboo Small Size,120,Normal,Pumpkin Pokémon,44,66,70,44,55,56
+710,Pumpkaboo Large Size,120,Normal,Pumpkin Pokémon,54,66,70,44,55,46
+710,Pumpkaboo Super Size,120,Normal,Pumpkin Pokémon,59,66,70,44,55,41
+711,Gourgeist Average Size,60,Normal,Pumpkin Pokémon,65,90,122,58,75,84
+711,Gourgeist Small Size,60,Normal,Pumpkin Pokémon,55,85,122,58,75,99
+711,Gourgeist Large Size,60,Normal,Pumpkin Pokémon,75,95,122,58,75,69
+711,Gourgeist Super Size,60,Normal,Pumpkin Pokémon,85,100,122,58,75,54
+712,Bergmite,190,Normal,Ice Chunk Pokémon,55,69,85,32,35,28
+713,Avalugg,55,Normal,Iceberg Pokémon,95,117,184,44,46,28
+714,Noibat,190,Normal,Sound Wave Pokémon,40,30,35,45,40,55
+715,Noivern,45,Normal,Sound Wave Pokémon,85,70,80,97,80,123
+716,Xerneas,45,Legendary,Life Pokémon,126,131,95,131,98,99
+717,Yveltal,45,Legendary,Destruction Pokémon,126,131,95,131,98,99
+718,Zygarde 50% Forme,3,Legendary,Order Pokémon,108,100,121,81,95,95
+718,Zygarde 10% Forme,3,Legendary,Order Pokémon,54,100,71,61,85,115
+718,Zygarde Complete Forme,3,Legendary,Order Pokémon,216,100,121,91,95,85
+719,Diancie,3,Mythical,Jewel Pokémon,50,100,150,100,150,50
+719,Mega Diancie,3,Mythical,Jewel Pokémon,50,160,110,160,110,110
+720,Hoopa Hoopa Confined,3,Mythical,Mischief Pokémon,80,110,60,150,130,70
+720,Hoopa Hoopa Unbound,3,Mythical,Djinn Pokémon,80,160,60,170,130,80
+721,Volcanion,3,Mythical,Steam Pokémon,80,110,120,130,90,70
+722,Rowlet,45,Normal,Grass Quill Pokémon,68,55,55,50,50,42
+723,Dartrix,45,Normal,Blade Quill Pokémon,78,75,75,70,70,52
+724,Decidueye,45,Normal,Arrow Quill Pokémon,78,107,75,100,100,70
+725,Litten,45,Normal,Fire Cat Pokémon,45,65,40,60,40,70
+726,Torracat,45,Normal,Fire Cat Pokémon,65,85,50,80,50,90
+727,Incineroar,45,Normal,Heel Pokémon,95,115,90,80,90,60
+728,Popplio,45,Normal,Sea Lion Pokémon,50,54,54,66,56,40
+729,Brionne,45,Normal,Pop Star Pokémon,60,69,69,91,81,50
+730,Primarina,45,Normal,Soloist Pokémon,80,74,74,126,116,60
+731,Pikipek,255,Normal,Woodpecker Pokémon,35,75,30,30,30,65
+732,Trumbeak,120,Normal,Bugle Beak Pokémon,55,85,50,40,50,75
+733,Toucannon,45,Normal,Cannon Pokémon,80,120,75,75,75,60
+734,Yungoos,255,Normal,Loitering Pokémon,48,70,30,30,30,45
+735,Gumshoos,127,Normal,Stakeout Pokémon,88,110,60,55,60,45
+736,Grubbin,255,Normal,Larva Pokémon,47,62,45,55,45,46
+737,Charjabug,120,Normal,Battery Pokémon,57,82,95,55,75,36
+738,Vikavolt,45,Normal,Stag Beetle Pokémon,77,70,90,145,75,43
+739,Crabrawler,225,Normal,Boxing Pokémon,47,82,57,42,47,63
+740,Crabominable,60,Normal,Woolly Crab Pokémon,97,132,77,62,67,43
+741,Oricorio Baile Style,45,Normal,Dancing Pokémon,75,70,70,98,70,93
+741,Oricorio Pom-Pom Style,45,Normal,Dancing Pokémon,75,70,70,98,70,93
+741,Oricorio Pa'u Style,45,Normal,Dancing Pokémon,75,70,70,98,70,93
+741,Oricorio Sensu Style,45,Normal,Dancing Pokémon,75,70,70,98,70,93
+742,Cutiefly,190,Normal,Bee Fly Pokémon,40,45,40,55,40,84
+743,Ribombee,75,Normal,Bee Fly Pokémon,60,55,60,95,70,124
+744,Rockruff,190,Normal,Puppy Pokémon,45,65,40,30,40,60
+744,Own Tempo Rockruff,190,Normal,Puppy Pokémon,45,65,40,30,40,60
+745,Lycanroc Midday Form,90,Normal,Wolf Pokémon,75,115,65,55,65,112
+745,Lycanroc Midnight Form,90,Normal,Wolf Pokémon,85,115,75,55,75,82
+745,Lycanroc Dusk Form,90,Normal,Wolf Pokémon,75,117,65,55,65,110
+746,Wishiwashi Solo Form,60,Normal,Small Fry Pokémon,45,20,20,25,25,40
+746,Wishiwashi School Form,60,Normal,Small Fry Pokémon,45,140,130,140,135,30
+747,Mareanie,190,Normal,Brutal Star Pokémon,50,53,62,43,52,45
+748,Toxapex,75,Normal,Brutal Star Pokémon,50,63,152,53,142,35
+749,Mudbray,190,Normal,Donkey Pokémon,70,100,70,45,55,45
+750,Mudsdale,60,Normal,Draft Horse Pokémon,100,125,100,55,85,35
+751,Dewpider,200,Normal,Water Bubble Pokémon,38,40,52,40,72,27
+752,Araquanid,100,Normal,Water Bubble Pokémon,68,70,92,50,132,42
+753,Fomantis,190,Normal,Sickle Grass Pokémon,40,55,35,50,35,35
+754,Lurantis,75,Normal,Bloom Sickle Pokémon,70,105,90,80,90,45
+755,Morelull,190,Normal,Illuminating Pokémon,40,35,55,65,75,15
+756,Shiinotic,75,Normal,Illuminating Pokémon,60,45,80,90,100,30
+757,Salandit,120,Normal,Toxic Lizard Pokémon,48,44,40,71,40,77
+758,Salazzle,45,Normal,Toxic Lizard Pokémon,68,64,60,111,60,117
+759,Stufful,140,Normal,Flailing Pokémon,70,75,50,45,50,50
+760,Bewear,70,Normal,Strong Arm Pokémon,120,125,80,55,60,60
+761,Bounsweet,235,Normal,Fruit Pokémon,42,30,38,30,38,32
+762,Steenee,120,Normal,Fruit Pokémon,52,40,48,40,48,62
+763,Tsareena,45,Normal,Fruit Pokémon,72,120,98,50,98,72
+764,Comfey,60,Normal,Posy Picker Pokémon,51,52,90,82,110,100
+765,Oranguru,45,Normal,Sage Pokémon,90,60,80,90,110,60
+766,Passimian,45,Normal,Teamwork Pokémon,100,120,90,40,60,80
+767,Wimpod,90,Normal,Turn Tail Pokémon,25,35,40,20,30,80
+768,Golisopod,45,Normal,Hard Scale Pokémon,75,125,140,60,90,40
+769,Sandygast,140,Normal,Sand Heap Pokémon,55,55,80,70,45,15
+770,Palossand,60,Normal,Sand Castle Pokémon,85,75,110,100,75,35
+771,Pyukumuku,60,Normal,Sea Cucumber Pokémon,55,60,130,30,130,5
+772,Type: Null,3,Sub Legendary,Synthetic Pokémon,95,95,95,95,95,59
+773,Silvally,3,Sub Legendary,Synthetic Pokémon,95,95,95,95,95,95
+774,Minior Meteor Form,30,Normal,Meteor Pokémon,60,60,100,60,100,60
+774,Minior Core Form,30,Normal,Meteor Pokémon,60,100,60,100,60,120
+775,Komala,45,Normal,Drowsing Pokémon,65,115,65,75,95,65
+776,Turtonator,70,Normal,Blast Turtle Pokémon,60,78,135,91,85,36
+777,Togedemaru,180,Normal,Roly-Poly Pokémon,65,98,63,40,73,96
+778,Mimikyu,45,Normal,Disguise Pokémon,55,90,80,50,105,96
+779,Bruxish,80,Normal,Gnash Teeth Pokémon,68,105,70,70,70,92
+780,Drampa,70,Normal,Placid Pokémon,78,60,85,135,91,36
+781,Dhelmise,25,Normal,Sea Creeper Pokémon,70,131,100,86,90,40
+782,Jangmo-o,45,Normal,Scaly Pokémon,45,55,65,45,45,45
+783,Hakamo-o,45,Normal,Scaly Pokémon,55,75,90,65,70,65
+784,Kommo-o,45,Normal,Scaly Pokémon,75,110,125,100,105,85
+785,Tapu Koko,3,Sub Legendary,Land Spirit Pokémon,70,115,85,95,75,130
+786,Tapu Lele,3,Sub Legendary,Land Spirit Pokémon,70,85,75,130,115,95
+787,Tapu Bulu,3,Sub Legendary,Land Spirit Pokémon,70,130,115,85,95,75
+788,Tapu Fini,3,Sub Legendary,Land Spirit Pokémon,70,75,115,95,130,85
+789,Cosmog,45,Legendary,Nebula Pokémon,43,29,31,29,31,37
+790,Cosmoem,45,Legendary,Protostar Pokémon,43,29,131,29,131,37
+791,Solgaleo,45,Legendary,Sunne Pokémon,137,137,107,113,89,97
+792,Lunala,45,Legendary,Moone Pokémon,137,113,89,137,107,97
+793,Nihilego,45,Sub Legendary,Parasite Pokémon,109,53,47,127,131,103
+794,Buzzwole,45,Sub Legendary,Swollen Pokémon,107,139,139,53,53,79
+795,Pheromosa,45,Sub Legendary,Lissome Pokémon,71,137,37,137,37,151
+796,Xurkitree,45,Sub Legendary,Glowing Pokémon,83,89,71,173,71,83
+797,Celesteela,45,Sub Legendary,Launch Pokémon,97,101,103,107,101,61
+798,Kartana,45,Sub Legendary,Drawn Sword Pokémon,59,181,131,59,31,109
+799,Guzzlord,45,Sub Legendary,Junkivore Pokémon,223,101,53,97,53,43
+800,Necrozma,255,Legendary,Prism Pokémon,97,107,101,127,89,79
+800,Dusk Mane Necrozma,3,Legendary,Prism Pokémon,97,157,127,113,109,77
+800,Dawn Wings Necrozma,3,Legendary,Prism Pokémon,97,113,109,157,127,77
+800,Ultra Necrozma,3,Legendary,Prism Pokémon,97,167,97,167,97,129
+801,Magearna,3,Mythical,Artificial Pokémon,80,95,115,130,115,65
+802,Marshadow,3,Mythical,Gloomdweller Pokémon,90,125,80,90,90,125
+803,Poipole,45,Sub Legendary,Poison Pin Pokémon,67,73,67,73,67,73
+804,Naganadel,45,Sub Legendary,Poison Pin Pokémon,73,73,73,127,73,121
+805,Stakataka,30,Sub Legendary,Rampart Pokémon,61,131,211,53,101,13
+806,Blacephalon,30,Sub Legendary,Fireworks Pokémon,53,127,53,151,79,107
+807,Zeraora,3,Mythical,Thunderclap Pokémon,88,112,75,102,80,143
+808,Meltan,,Mythical,Hex Nut Pokémon,46,65,65,55,35,34
+809,Melmetal,,Mythical,Hex Nut Pokémon,135,143,143,80,65,34
+810,Grookey,,Normal,Chimp Pokémon,50,65,50,40,40,65
+811,Thwackey,,Normal,Beat Pokémon,70,85,70,55,60,80
+812,Rillaboom,,Normal,Drummer Pokémon,100,125,90,60,70,85
+813,Scorbunny,,Normal,Rabbit Pokémon,50,71,40,40,40,69
+814,Raboot,,Normal,Rabbit Pokémon,65,86,60,55,60,94
+815,Cinderace,,Normal,Striker Pokémon,80,116,75,65,75,119
+816,Sobble,,Normal,Water Lizard Pokémon,50,40,40,70,40,70
+817,Drizzile,,Normal,Water lizard Pokémon,65,60,55,95,55,90
+818,Inteleon,,Normal,Secret Agent Pokémon,70,85,65,125,65,120
+819,Skwovet,,Normal,Cheeky Pokémon,70,55,55,35,35,25
+820,Greedent,,Normal,Greedy Pokémon,120,95,95,55,75,20
+821,Rookidee,,Normal,Tiny Bird Pokémon,38,47,35,33,35,57
+822,Corvisquire,,Normal,Raven Pokémon,68,67,55,43,55,77
+823,Corviknight,,Normal,Raven Pokémon,98,87,105,53,85,67
+824,Blipbug,,Normal,Larva Pokémon,25,20,20,25,45,45
+825,Dottler,,Normal,Radome Pokémon,50,35,80,50,90,30
+826,Orbeetle,,Normal,Seven Spot Pokémon,60,45,110,80,120,90
+827,Nickit,,Normal,Fox Pokémon,40,28,28,47,52,50
+828,Thievul,,Normal,Fox Pokémon,70,58,58,87,92,90
+829,Gossifleur,,Normal,Flowering Pokémon,40,40,60,40,60,10
+830,Eldegoss,,Normal,Cotton Bloom Pokémon,60,50,90,80,120,60
+831,Wooloo,,Normal,Sheep Pokémon,42,40,55,40,45,48
+832,Dubwool,,Normal,Sheep Pokémon,72,80,100,60,90,88
+833,Chewtle,,Normal,Snapping Pokémon,50,64,50,38,38,44
+834,Drednaw,,Normal,Bite Pokémon,90,115,90,48,68,74
+835,Yamper,,Normal,Puppy Pokémon,59,45,50,40,50,26
+836,Boltund,,Normal,Dog Pokémon,69,90,60,90,60,121
+837,Rolycoly,,Normal,Coal Pokémon,30,40,50,40,50,30
+838,Carkol,,Normal,Coal Pokémon,80,60,90,60,70,50
+839,Coalossal,,Normal,Coal Pokémon,110,80,120,80,90,30
+840,Applin,,Normal,Apple Core Pokémon,40,40,80,40,40,20
+841,Flapple,,Normal,Apple Wing Pokémon,70,110,80,95,60,70
+842,Appletun,,Normal,Apple Nectar Pokémon,110,85,80,100,80,30
+843,Silicobra,,Normal,Sand Snake Pokémon,52,57,75,35,50,46
+844,Sandaconda,,Normal,Sand Snake Pokémon,72,107,125,65,70,71
+845,Cramorant,,Normal,Gulp Pokémon,70,85,55,85,95,85
+846,Arrokuda,,Normal,Rush Pokémon,41,63,40,40,30,66
+847,Barraskewda,,Normal,Skewer Pokémon,61,123,60,60,50,136
+848,Toxel,,Normal,Baby Pokémon,40,38,35,54,35,40
+849,Toxtricity Low Key Form,,Normal,Punk Pokémon,75,98,70,114,70,75
+849,Toxtricity Amped Form,,Normal,Punk Pokémon,75,98,70,114,70,75
+850,Sizzlipede,,Normal,Radiator Pokémon,50,65,45,50,50,45
+851,Centiskorch,,Normal,Radiator Pokémon,100,115,65,90,90,65
+852,Clobbopus,,Normal,Tantrum Pokémon,50,68,60,50,50,32
+853,Grapploct,,Normal,Tantrum Pokémon,80,118,90,70,80,42
+854,Sinistea,,Normal,Black Tea Pokémon,40,45,45,74,54,50
+855,Polteageist,,Normal,Black Tea Pokémon,60,65,65,134,114,70
+856,Hatenna,,Normal,Calm Pokémon,42,30,45,56,53,39
+857,Hattrem,,Normal,Serene Pokémon,57,40,65,86,73,49
+858,Hatterene,,Normal,Silent Pokémon,57,90,95,136,103,29
+859,Impidimp,,Normal,Wily Pokémon,45,45,30,55,40,50
+860,Morgrem,,Normal,Devious Pokémon,65,60,45,75,55,70
+861,Grimmsnarl,,Normal,Bulk Up Pokémon,95,120,65,95,75,60
+862,Obstagoon,,Normal,Blocking Pokémon,93,90,101,60,81,95
+863,Perrserker,,Normal,Viking Pokémon,70,110,100,50,60,50
+864,Cursola,,Normal,Coral Pokémon,60,95,50,145,130,30
+865,Sirfetch'd,,Normal,Wild Duck Pokémon,62,135,95,68,82,65
+866,Mr. Rime,,Normal,Comedian Pokémon,80,85,75,110,100,70
+867,Runerigus,,Normal,Grudge Pokémon,58,95,145,50,105,30
+868,Milcery,,Normal,Cream Pokémon,45,40,40,50,61,34
+869,Alcremie,,Normal,Cream Pokémon,65,60,75,110,121,64
+870,Falinks,,Normal,Formation Pokémon,65,100,100,70,60,75
+871,Pincurchin,,Normal,Sea Urchin Pokémon,48,101,95,91,85,15
+872,Snom,,Normal,Worm Pokémon,30,25,35,45,30,20
+873,Frosmoth,,Normal,Frost Moth Pokémon,70,65,60,125,90,65
+874,Stonjourner,,Normal,Big Rock Pokémon,100,125,135,20,20,70
+875,Eiscue Ice Face,,Normal,Penguin Pokémon,75,80,110,65,90,50
+875,Eiscue Noice Face,,Normal,Penguin Pokémon,75,80,70,65,50,130
+876,Indeedee Male,,Normal,Emotion Pokémon,60,65,55,105,95,95
+876,Indeedee Female,,Normal,Emotion Pokémon,70,55,65,95,105,85
+877,Morpeko Full Belly Mode,,Normal,Two-Sided Pokémon,58,95,58,70,58,97
+877,Morpeko Hangry Mode,,Normal,Two-Sided Pokémon,58,95,58,70,58,97
+878,Cufant,,Normal,Copperderm Pokémon,72,80,49,40,49,40
+879,Copperajah,,Normal,Copperderm Pokémon,122,130,69,80,69,30
+880,Dracozolt,,Normal,Fossil Pokémon,90,100,90,80,70,75
+881,Arctozolt,,Normal,Fossil Pokémon,90,100,90,90,80,55
+882,Dracovish,,Normal,Fossil Pokémon,90,90,100,70,80,75
+883,Arctovish,,Normal,Fossil Pokémon,90,90,100,80,90,55
+884,Duraludon,,Normal,Alloy Pokémon,70,95,115,120,50,85
+885,Dreepy,,Normal,Lingering Pokémon,28,60,30,40,30,82
+886,Drakloak,,Normal,Caretaker Pokémon,68,80,50,60,50,102
+887,Dragapult,,Normal,Stealth Pokémon,88,120,75,100,75,142
+888,Zacian Crowned Sword,,Legendary,Warrior Pokémon,92,170,115,80,115,148
+888,Zacian Hero of Many Battles,,Legendary,Warrior Pokémon,92,130,115,80,115,138
+889,Zamazenta Crowned Shield,,Legendary,Warrior Pokémon,92,130,145,80,145,128
+889,Zamazenta Hero of Many Battles,,Legendary,Warrior Pokémon,92,130,115,80,115,138
+890,Eternatus,,Legendary,Gigantic Pokémon,140,85,95,145,95,130
+890,Eternatus Eternamax,,Legendary,Gigantic Pokémon,255,115,250,125,250,130

@@ -1,0 +1,14 @@
+pokedex_number,name,classfication,capture_rate,hp,attack,defense,sp_attack,sp_defense,speed,type1,type2,weight_kg,dex_description,ability,ability_description,animation
+1,Hun,?,45,100,100,100,100,100,100,Bug,,1,Her bee butt often gets in the way.,?,?,Bounce
+2,Meliny,?,45,100,100,100,100,100,100,Bug,,1,Loves going out.,?,?,Shake Y
+3,Tegan,?,45,100,100,100,100,100,100,Mouse,,1,Often needs help reaching things.,?,?,Shake X
+4,Pepper,?,45,100,100,100,100,100,100,Dog,,1,Very open to new things.,?,?,Bounce
+5,Tef,?,3,100,100,100,100,100,100,Giantess,,1,Her crown and pearls are imbued with magical power.,?,?,Sin X
+6,Stella,?,45,100,100,100,100,100,100,Shark,,1,Works as a lifeguard.,?,?,Sin XY
+7,Sophie,?,45,100,100,100,100,100,100,Slime,,1,She turns into goo with any strong emotion.,?,?,Bounce
+8,Megumi,?,45,100,100,100,100,100,100,Cat,,1,Envies most of her friends.,?,?,Sin X
+9,Tory,?,45,100,100,100,100,100,100,Alligator,,1,Stella's best friend. She doesn't say much.,?,?,Shake X
+10,Hannah,?,45,100,100,100,100,100,100,Bunny,,1,Loves nature.,?,?,Sin X
+11,Jill,?,45,100,100,100,100,100,100,Human,,1,Keeps the earth alien-free.,?,?,Bounce
+12,Myougi,?,45,100,100,100,100,100,100,Succubus,Satyress,1,She's a brat that wants world domination.,?,?,Sin XY
+13,Vi,?,45,100,100,100,100,100,100,Angel,,1,Wants to do the right thing.,?,?,Sin Y

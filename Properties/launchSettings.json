@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "solgryn-pokemon-save-merge": {
+      "commandName": "Project",
+      "commandLineArgs": "theuberkitten data-old.dat data-new.dat"
+    }
+  }
+}
