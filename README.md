@@ -1,11 +1,11 @@
 This tool combines two versions of the data.dat file used by the [Solgryn's Pokémon On Stream](https://www.grynsoft.com/spos-app/) app.
 
-Combines:
+### Combined from both files:
 - Trainer caught Pokemon (preserving shinies in either file)
 - Trainer ultra ball count
 - Trainer stats
 
-The following are copied from data-old.dat:
+### Copied from data-old.dat:
 - Trainer team data
 - Trainer avatar
 
