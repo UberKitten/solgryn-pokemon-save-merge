@@ -6,7 +6,7 @@ This tool combines two versions of the data.dat file used by the [Solgryn's Pok√
 
 2. Download the release .zip and extract it somewhere
 
-2. Find the data.dat file for the solgryn app in your AppData path like below:
+2. Find the data.dat file for the solgryn app in your AppData path like:
 `C:\Users\your-username\AppData\LocalLow\Grynsoft\Solgryns Pokemon On Twitch`
 
 3. Take the newer copy of the file, make a copy called "data-new.dat", and put it where you extracted the zip
