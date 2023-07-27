@@ -12,7 +12,7 @@ namespace App
             if (args.Length != 3)
             {
                 Console.WriteLine("Usage: username data-old.dat data-new.dat");
-                Console.WriteLine("data-old.dat should be the older file, data-new.dat should be the newer filer");
+                Console.WriteLine("data-old.dat should be the older file, data-new.dat should be the newer file");
                 Console.WriteLine("Outputs to data-merged.dat");
                 return;
             }
@@ -36,12 +36,6 @@ namespace App
             newFile.Load();
 
             Console.WriteLine("Loaded data for stream " + newFile.USERNAME_STREAMER);
-
-            Console.WriteLine("Giving test pokemon to " + newFile.USERNAME_STREAMER);
-            oldFile.GivePokemon(oldFile.USERNAME_STREAMER, oldFile.PokemonDatabase[1]);
-            oldFile.GivePokemon(oldFile.USERNAME_STREAMER, oldFile.PokemonDatabase[2]);
-            newFile.GivePokemon(newFile.USERNAME_STREAMER, newFile.PokemonDatabase[1]);
-            newFile.GivePokemon(newFile.USERNAME_STREAMER, newFile.PokemonDatabase[3]);
 
             Console.WriteLine("************** Old file **************");
             foreach (var entry in oldFile.TrainerDatabase)
@@ -89,7 +83,13 @@ namespace App
                     // Combine Pokemon
                     foreach (var sourcePokemon in sourceTrainer.Value.Pokemon)
                     {
-                        destination.GivePokemon(sourceTrainer.Key, sourcePokemon);
+                        if (sourcePokemon == null)
+                        {
+                            Console.WriteLine("Warning: Trainer " + sourceTrainer.Key + " in source file has a null Pokemon, ignoring");
+                        } else
+                        {
+                            destination.GivePokemon(sourceTrainer.Key, sourcePokemon);
+                        }
                     }
 
                     // Combine Ultra Balls
@@ -108,7 +108,8 @@ namespace App
             // Overwrite any teams in destination
 
             // Loop through each source team
-            for (int i = 0; i < source.SaveData.Teams.GetLength(0); i++)
+            // Disabled as I'm not confident the AddNonDuplicateEntryTo2DStringArray works correctly and teams are easy to set again
+            /*for (int i = 0; i < source.SaveData.Teams.GetLength(0); i++)
             {
                 var sourceUsername = source.SaveData.Teams[i, 0];
 
@@ -142,7 +143,7 @@ namespace App
                         source.SaveData.Teams[i, 6]
                     );
                 }
-            }
+            }*/
         }
 
     }
