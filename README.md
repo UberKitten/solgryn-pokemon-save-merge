@@ -7,7 +7,7 @@ This tool combines two versions of the data.dat file used by the [Solgryn's PokÃ
 
 ### Copied from data-old.dat:
 - Trainer team data
-- Trainer avatar
+- Trainer avatar choice
 
 ## Instructions:
 
